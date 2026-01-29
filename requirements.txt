@@ -1,3 +1,4 @@
 pandas
 FastAPI
 uvicorn
+langgraph
